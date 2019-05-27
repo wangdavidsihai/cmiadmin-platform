@@ -26,7 +26,7 @@
           <span v-else>提交中...</span>
         </el-button>
       </el-form-item>
-      <p class="login-tip">系统默认用户名：admin，密码：admin</p>
+      <p class="login-tip">系统默认用户名：admin，密码：123456</p>
     </el-form>
   </div>
 </template>
